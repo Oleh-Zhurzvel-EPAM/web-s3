@@ -25,4 +25,4 @@ jobs:
       - name: Copy resource files
         run: |
           aws --version  
-          aws s3 cp ./index.html s3://cmtr-u3vaje75-bucket-1778672734/index.html
+          aws s3 cp ./index.html s3://cmtr-u3vaje75-bucket-1778676378/index.html
